@@ -1,89 +1,27 @@
 {
   "project_info": {
-    "project_number": "40141446180",
-    "firebase_url": "https://pianika-f6b18.firebaseio.com",
-    "project_id": "pianika-f6b18",
-    "storage_bucket": "pianika-f6b18.appspot.com"
+    "project_number": "8435930725",
+    "firebase_url": "https://pianika-942de.firebaseio.com",
+    "project_id": "pianika-942de",
+    "storage_bucket": "pianika-942de.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:40141446180:android:c875377b3b2e9c65",
+        "mobilesdk_app_id": "1:8435930725:android:6193f6009d5c64e9",
         "android_client_info": {
-          "package_name": "com.sevenwin.mypianika"
+          "package_name": "com.seven.mypianika"
         }
       },
       "oauth_client": [
         {
-          "client_id": "40141446180-om7hot2j845si5ku0aur9hm04bvurgeg.apps.googleusercontent.com",
+          "client_id": "8435930725-6kqlr9fvh9he7qqvrvaqcg6qs047j9j6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC9FbiBg9CvJuQbV8XiN5V7HYEEh6miTq8"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:40141446180:android:8806e319a317b5b8",
-        "android_client_info": {
-          "package_name": "com.sevenwin.pianika"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "40141446180-om7hot2j845si5ku0aur9hm04bvurgeg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyC9FbiBg9CvJuQbV8XiN5V7HYEEh6miTq8"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:40141446180:android:7a2426c0c4982752",
-        "android_client_info": {
-          "package_name": "com.sevenwin.pianokids"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "40141446180-om7hot2j845si5ku0aur9hm04bvurgeg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyC9FbiBg9CvJuQbV8XiN5V7HYEEh6miTq8"
+          "current_key": "AIzaSyD9EGgyv4D859n_VXhtvtMI_Tnokbaz4y4"
         }
       ],
       "services": {

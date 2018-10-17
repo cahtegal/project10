@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sevenwin.mypianika">
+    package="com.seven.mypianika">
 
     <application
         android:allowBackup="true"
@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4615085761005069~9051119747"/>
+
         <activity
             android:name=".Utama"
             android:screenOrientation="landscape"
