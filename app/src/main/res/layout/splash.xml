@@ -28,7 +28,7 @@
                 android:id="@+id/imgLogo"
                 android:layout_width="200dp"
                 android:layout_height="200dp"
-                app:srcCompat="@drawable/logo_sevenwin" />
+                app:srcCompat="@drawable/logo_next" />
         </RelativeLayout>
 
     </RelativeLayout>

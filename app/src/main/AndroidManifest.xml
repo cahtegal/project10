@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.seven.mypianika">
+    package="com.nextwin.mypianika">
 
     <application
         android:allowBackup="true"
@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-4615085761005069~9051119747"/>
+            android:value="ca-app-pub-1960309387431472~9648943597"/>
 
         <activity
             android:name=".Utama"
