@@ -50,7 +50,7 @@ public class Menu extends AppCompatActivity {
     TextView teksSound;
     FirebaseDatabase database = FirebaseDatabase.getInstance();
     DatabaseReference myRef = database.getReference("inMypianika");
-    String value = "ca-app-pub-1960309387431472/8120239509";
+    String value = "ca-app-pub-5730449577374867/5681528407";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

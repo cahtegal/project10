@@ -82,7 +82,7 @@ public class Utama extends AppCompatActivity {
 
     AdRequest adRequest;
     AudioManager mAudioManager;
-    String value = "ca-app-pub-1960309387431472/8120239509";
+    String value = "ca-app-pub-5730449577374867/5681528407";
     FirebaseDatabase database = FirebaseDatabase.getInstance();
     DatabaseReference myRef = database.getReference("inMypianika");
     DatabaseReference myRef2 = database.getReference("isBottom");

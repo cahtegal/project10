@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1960309387431472~9648943597"/>
+            android:value="ca-app-pub-5730449577374867~8867052803"/>
 
         <activity
             android:name=".Utama"
