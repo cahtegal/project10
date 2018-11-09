@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Pianika</string>
+    <string name="app_name">Pianika</string>
     <array name="array_dot_active">
         <item>@color/colorPrimary</item>
         <item>@color/colorPrimary</item>

@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             ads:adSize="SMART_BANNER"
-            ads:adUnitId="ca-app-pub-5730449577374867/5681528407" />
+            ads:adUnitId="ca-app-pub-5730449577374867/2594046660" />
     </LinearLayout>
 
     <RelativeLayout
@@ -27,7 +27,7 @@
         android:layout_height="match_parent"
         android:layout_below="@+id/linear"
         android:layout_above="@+id/adView2"
-        android:background="@drawable/bg4">
+        android:background="@drawable/bg1">
         <ImageView
             android:id="@+id/imgBack"
             android:layout_width="60dp"
@@ -645,6 +645,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         ads:adSize="SMART_BANNER"
-        ads:adUnitId="ca-app-pub-5730449577374867/5681528407" />
+        ads:adUnitId="ca-app-pub-5730449577374867/2594046660" />
 
 </RelativeLayout>
