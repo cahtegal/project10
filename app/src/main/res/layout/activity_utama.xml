@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             ads:adSize="SMART_BANNER"
-            ads:adUnitId="ca-app-pub-5730449577374867/2594046660" />
+            ads:adUnitId="ca-app-pub-5730449577374867/4523338215" />
     </LinearLayout>
 
     <RelativeLayout
@@ -645,6 +645,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         ads:adSize="SMART_BANNER"
-        ads:adUnitId="ca-app-pub-5730449577374867/2594046660" />
+        ads:adUnitId="ca-app-pub-5730449577374867/4523338215" />
 
 </RelativeLayout>

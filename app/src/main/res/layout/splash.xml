@@ -28,7 +28,7 @@
                 android:id="@+id/imgLogo"
                 android:layout_width="200dp"
                 android:layout_height="200dp"
-                app:srcCompat="@drawable/logo_next" />
+                app:srcCompat="@drawable/logo_win_dev" />
         </RelativeLayout>
 
     </RelativeLayout>

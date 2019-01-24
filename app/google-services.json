@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "172470532764",
-    "firebase_url": "https://piano-372c8.firebaseio.com",
-    "project_id": "piano-372c8",
-    "storage_bucket": "piano-372c8.appspot.com"
+    "project_number": "704811848403",
+    "firebase_url": "https://piano-d584c.firebaseio.com",
+    "project_id": "piano-d584c",
+    "storage_bucket": "piano-d584c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:172470532764:android:2e2657b0b9847606",
+        "mobilesdk_app_id": "1:704811848403:android:cae403f1dbc1fcb3",
         "android_client_info": {
-          "package_name": "com.nextwin.mydarbuka"
+          "package_name": "com.hidevs.pianika"
         }
       },
       "oauth_client": [
         {
-          "client_id": "172470532764-5tn6duvn212v9cedli33vklrt1ijqfus.apps.googleusercontent.com",
+          "client_id": "704811848403-fr26fh6krcr8296s70hqo4ackeq3n1pg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA9NYuF3xSenvxmXDxMj64FBPlsTqNe0WQ"
+          "current_key": "AIzaSyBij2_MrpeRnw8eOqH0iZKWTvYEjBQEX2s"
         }
       ],
       "services": {
@@ -39,51 +39,20 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:172470532764:android:cc17d63bacb7f59a",
+        "mobilesdk_app_id": "1:704811848403:android:29e9fd2eb772add4",
         "android_client_info": {
-          "package_name": "com.nextwin.mypianika"
+          "package_name": "com.hidevs.realpianika"
         }
       },
       "oauth_client": [
         {
-          "client_id": "172470532764-5tn6duvn212v9cedli33vklrt1ijqfus.apps.googleusercontent.com",
+          "client_id": "704811848403-fr26fh6krcr8296s70hqo4ackeq3n1pg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA9NYuF3xSenvxmXDxMj64FBPlsTqNe0WQ"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:172470532764:android:be924714c8fa9dd7",
-        "android_client_info": {
-          "package_name": "com.nextwin.pianika"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "172470532764-5tn6duvn212v9cedli33vklrt1ijqfus.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA9NYuF3xSenvxmXDxMj64FBPlsTqNe0WQ"
+          "current_key": "AIzaSyBij2_MrpeRnw8eOqH0iZKWTvYEjBQEX2s"
         }
       ],
       "services": {
